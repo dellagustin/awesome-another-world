@@ -16,8 +16,9 @@ Collection of awesome links about the game Another World (also known as Out of T
 
 ## Videos
 
-- [Burgertime 8/9/2015: Out of This World (YouTube)](https://www.youtube.com/watch?v=tiq0OL8rzso) - video by Rebecca Heineman (Rest in Peace), developer who ported the game for the Super Nintendo Entertainement System (SNES), and other devices.
+- [Burgertime 8/9/2015: Out of This World (YouTube)](https://www.youtube.com/watch?v=tiq0OL8rzso) - 59:35 - video by Rebecca Heineman (Rest in Peace), developer who ported the game for the Super Nintendo Entertainement System (SNES), and other devices.
 - [Another World vm Lua/Love2D (YouTube)](https://youtu.be/Q7gUVuhWNZo?si=Xm6mvDgy2sshjVib)
+- [The Story of Another World on the Amiga | MVG (YouTube)](https://www.youtube.com/watch?v=0iz9PJbs5rE) - 13:43
 
 ## Open Source Projects
 
